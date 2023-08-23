@@ -111,7 +111,7 @@
   .Imagen4{
 
     height: 490px;
-    width: 65%;
+    width: 78%;
     position: relative;
     background-size: cover;
     background-repeat: no-repeat;
@@ -158,6 +158,7 @@ font-size: 250%;
     background-size: cover;
     font-size: 180%;
     top: -100px;
+    right: 100px;
     text-align:center;
     line-height: 1.5; 
     padding: 100px;
@@ -165,6 +166,32 @@ font-size: 250%;
 
 
 }
+
+
+
+.Imagen6{
+
+  
+  position: relative;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image:  url(Imagenes/cumpleanero-home-2023.png);
+  height: 200px;
+  width: 200px;
+  margin-left: 218px;
+  bottom: -120px;
+  transform: scale(1.5);
+
+
+}
+
+
+.Imagen6:hover {
+  filter: brightness(70%);
+}
+
+
+
 
 
 
